@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\source\repos\MAsterMind\Source.c(168,15): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  MAsterMind.vcxproj -> D:\source\repos\MAsterMind\x64\Debug\MAsterMind.exe
